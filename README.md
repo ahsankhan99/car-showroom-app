@@ -1,0 +1,1 @@
+A simple React Native app that does data storage and retrieval from firebase.
